@@ -3,6 +3,7 @@ Data includes airline reviews from 2006 to 2019 for popular airlines around the 
 Data is scraped in Spring 2019. The main objectiveis to predict whether passengers will refer the airline to their friends.
 
 **Project Summary**
+
 In this project ,we shall be doing analysis to find whether a passengeer will recommend the airline to their friend.We shall be going through data and rating given by passenger on various aspects of service like,seatcomfort,cabin service,ground service, value for money and other.
 
 We shall start our project by importing important libraries.Once done we shall start cleaning our data.We shall dropping certain columns and deleting some duplicate rows too. Then we shall use graphical or non graphical method for EDA before handling null values,because the count of null value is high so we shall have to drop them.We shall draw certain conclusion on the basis of it.Once we have drawn our conclusion we shall be handling null values and imputing them as required.
