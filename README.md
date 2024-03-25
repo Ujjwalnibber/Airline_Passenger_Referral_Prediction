@@ -1,6 +1,7 @@
 **Problem Statement**
 Data includes airline reviews from 2006 to 2019 for popular airlines around the world withmultiple choice and free text questions. 
 Data is scraped in Spring 2019. The main objectiveis to predict whether passengers will refer the airline to their friends.
+
 **Project Summary**
 In this project ,we shall be doing analysis to find whether a passengeer will recommend the airline to their friend.We shall be going through data and rating given by passenger on various aspects of service like,seatcomfort,cabin service,ground service, value for money and other.
 
