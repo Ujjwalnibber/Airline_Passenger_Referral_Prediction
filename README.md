@@ -27,6 +27,7 @@ Support Vector Machine:A support vector machine (SVM) is a type of deep learning
 Naive Bayes Classification:The Naïve Bayes classifier is a supervised machine learning algorithm, which is used for classification tasks, like text classification. It is also part of a family of generative learning algorithms, meaning that it seeks to model the distribution of inputs of a given class or category.
 
 Then I created the function to compare the scores.Thereafter conclusion has been drawn.
+
 **Conclusion:**
 
 The Models used for this Classsification problem are
